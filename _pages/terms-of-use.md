@@ -85,7 +85,7 @@ User Content that promotes illegal activities or conduct that is abusive, threat
 User Content of commercial nature without authorization from us.
 We have no responsibility for the conduct of any user in the Service, including any User Content submitted in the Service. We assume no responsibility for monitoring the Service for inappropriate content or conduct. Your use of the Service is at your own risk.
 
-If you see any material in the Service that in your good faith belief is offensive, hateful, harassing or that you otherwise think is prohibited, you may notify us by contacting us at support@translateaillc.com
+If you see any material in the Service that in your good faith belief is offensive, hateful, harassing or that you otherwise think is prohibited, you may notify us by contacting us at abc@aiwaga.com
 
 For instructions on how to report intellectual property issues, please see Section 9 (“Copyright Infringement”) below.
 
@@ -113,7 +113,7 @@ We undertake to obey relevant copyright laws. If you believe copyright-protected
 6.  signature of the Notifying Party. 
 
 #### 10. Privacy and Security
-Claims can be sent to support@translateaillc.com
+Claims can be sent to abc@aiwaga.com
 
 Your privacy and the protection of personal data about you are very important to us. For a detailed description of how we collect and use personal data about you, please see our Privacy Policy (privacy-policy) and familiarize yourself with the choices you can make about the way in which we collect and use personal data about you. By using the Service, you consent and agree to the collection and use of certain personal data about you and your use of the Service in accordance with our Privacy Policy (privacy-policy) and applicable laws and regulations related to personal data.
 
@@ -149,7 +149,7 @@ We may assign or delegate these Terms and/or our Privacy Policy, in whole or in 
 #### 18.  Termination
 We reserve the right to discontinue offering the Service or any part thereof or to suspend, remove, modify or disable access to the Service at any time in our sole discretion and without notice. Notwithstanding anything contained in these Terms to the contrary, we may also, in our sole discretion, terminate or suspend your access to the Service at any time. In no event will we be liable for the removal of or disabling of access to the Service or any part thereof. We may also impose limits on the use of or access to the Service, in any event and without notice or liability. Upon termination of the Service or a part thereof, your license to use the Service or a part thereof will be automatically terminated. In such event, Helper.AI shall not be obligated to provide refunds or other compensation to users in connection with such discontinuation. Following termination, all such terms that by their nature may survive termination of these Terms shall be deemed to survive such termination. 
 #### 19.  Contact
-The Service is operated and provided by WAGA LLC. If you have any questions about these Terms, please contact us at support@translateaillc.com
+The Service is operated and provided by WAGA LLC. If you have any questions about these Terms, please contact us at abc@aiwaga.com
 
 AI Chat Service
 Exchange PII

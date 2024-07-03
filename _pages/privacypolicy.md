@@ -56,7 +56,7 @@ Restrict how we process your Personal Information.
 Withdraw your consent—where we rely on consent as the legal basis for processing at any time.
 Object to how we process your Personal Information.
 Lodge a complaint with your local data protection authority.
-You can exercise some of these rights through your Homework.AI account. If you are unable to exercise your rights through your account, please send your request to support@translateaillc.com.
+You can exercise some of these rights through your Homework.AI account. If you are unable to exercise your rights through your account, please send your request to abc@aiwaga.com.
 
 A note about accuracy: Services like Homework.AI generate responses by reading a user’s request and, in response, predicting the words most likely to appear next. In some cases, the words most likely to appear next may not be the most factually accurate. For this reason, you should not rely on the factual accuracy of output from our models.
 
@@ -77,16 +77,16 @@ The right to correct your Personal Information; and
 The right to be free from discrimination relating to the exercise of any of your privacy rights.
 We don’t “sell” Personal Information or “share” Personal Information for cross-contextual behavioral advertising (as those terms are defined under applicable local law). We also don’t process sensitive Personal Information for the purposes of inferring characteristics about a consumer.
 
-Exercising Your Rights. To the extent applicable under local law, you can exercise privacy rights described in this section by submitting a request to support@translateaillc.com.
+Exercising Your Rights. To the extent applicable under local law, you can exercise privacy rights described in this section by submitting a request to abc@aiwaga.com.
 
 Verification. In order to protect your Personal Information from unauthorized access, change, or deletion, we may require you to verify your credentials before you can submit a request to know, correct, or delete Personal Information. If you do not have an account with us, or if we suspect fraudulent or malicious activity, we may ask you to provide additional Personal Information and proof of residency for verification. If we cannot verify your identity, we will not be able to honor your request.
 
-Authorized Agents. You may also submit a rights request through an authorized agent. If you do so, the agent must present signed written permission to act on your behalf and you may also be required to independently verify your identity and submit proof of your residency with us. Authorized agent requests can be submitted to support@translateaillc.com
+Authorized Agents. You may also submit a rights request through an authorized agent. If you do so, the agent must present signed written permission to act on your behalf and you may also be required to independently verify your identity and submit proof of your residency with us. Authorized agent requests can be submitted to abc@aiwaga.com
 
-Appeals. Depending on where you live, you may have the right to appeal a decision we make relating to requests to exercise your rights under applicable local law. To appeal a decision, please send your request to support@translateaillc.com.
+Appeals. Depending on where you live, you may have the right to appeal a decision we make relating to requests to exercise your rights under applicable local law. To appeal a decision, please send your request to abc@aiwaga.com.
 
 #### 6.  Children
-Our Service is not directed to children under the age of 13. Homework.AI does not knowingly collect Personal Information from children under the age of 13. If you have reason to believe that a child under the age of 13 has provided Personal Information to Homework.AI through the Service, please email us at support@translateaillc.com. We will investigate any notification and if appropriate, delete the Personal Information from our systems. If you are 13 or older, but under 18, you must have consent from your parent or guardian to use our Services. 
+Our Service is not directed to children under the age of 13. Homework.AI does not knowingly collect Personal Information from children under the age of 13. If you have reason to believe that a child under the age of 13 has provided Personal Information to Homework.AI through the Service, please email us at abc@aiwaga.com. We will investigate any notification and if appropriate, delete the Personal Information from our systems. If you are 13 or older, but under 18, you must have consent from your parent or guardian to use our Services. 
 #### 7.  Links to other websites
 The Service may contain links to other websites not operated or controlled by Homework.AI, including social media services (“Third Party Sites”). The information that you share with Third Party Sites will be governed by the specific privacy policies and terms of service of the Third Party Sites and not by this Privacy Policy. By providing these links we do not imply that we endorse or have reviewed these sites. Please contact the Third Party Sites directly for information on their privacy practices and policies. 
 #### 8.  Security and Retention
@@ -105,9 +105,9 @@ Performance of a contract with you when we provide and maintain our Services. Wh
 Our legitimate interests in protecting our Services from abuse, fraud, or security risks, or in developing, improving, or promoting our Services, including when we train our models. This may include the processing of Account Information, Content, Social Information, and Technical Information. See Section 4 (above) for instructions on how you can opt out of our use of your information to train our models.
 Your consent when we ask for your consent to process your Personal Information for a specific purpose that we communicate to you. You have the right to withdraw your consent at any time.
 Compliance with our legal obligations when we use your Personal Information to comply with applicable law or when we protect our or our affiliates’, users’, or third parties’ rights, safety, and property.
-Data Transfers. Where required, we will use appropriate safeguards for transferring Personal Information outside of the EEA, Switzerland, and the UK. We will only transfer Personal Information pursuant to a legally valid transfer mechanism. For more information on the appropriate safeguards in place and to obtain a copy of these safeguards, please contact us at support@translateaillc.com.
+Data Transfers. Where required, we will use appropriate safeguards for transferring Personal Information outside of the EEA, Switzerland, and the UK. We will only transfer Personal Information pursuant to a legally valid transfer mechanism. For more information on the appropriate safeguards in place and to obtain a copy of these safeguards, please contact us at abc@aiwaga.com.
 
 #### 10.  Changes to the privacy policy
 We may update this Privacy Policy from time to time. When we do, we will post an updated version on this page, unless another type of notice is required by applicable law. 
 #### 11.  How to contact us
-Please contact support at support@5starland.com if you have any questions or concerns not already addressed in this Privacy Policy. 
+Please contact support at abc@aiwaga.com if you have any questions or concerns not already addressed in this Privacy Policy. 
